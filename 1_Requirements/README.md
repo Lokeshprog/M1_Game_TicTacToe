@@ -1,61 +1,61 @@
-# INTRODUCTION
+## INTRODUCTION
 
 Tic-Tac-Toe game is very popular and is fairly simple by itself. It is actually a two player game. Tic-Tac-Toe is a game in which one player draws X's and another player draws O's inside a set of nine squares and each player tries to be the first to fill a row, column, or diagonal of squares with either X's or O's. At the end of each turn the computer will check to see if X's have won the game or if the O's have won the game.
 
-# OBJECTIVE
+## OBJECTIVE
 
 In this game, there is a board with nxn squares. In our game, it is 3 x 3 squares.The goal of Tic-Tac-Toe is to be one of the players to get three samesymbols in a row - horizontally, vertically or diagonally on a 3 x 3 grid.
 
-# SWOT ANALYSIS
+## SWOT ANALYSIS
 
-## STRENGTH
+### STRENGTH
 
 - It is fun type game between the two players which gives relief from stress.
 - It helps to improve logical and mental ability.
 - It helps to develop spatial skills
 
-## WEAKNESS
+### WEAKNESS
 
 This game is addictive.
 
-## OPPORTUNITIES
+### OPPORTUNITIES
 
 It is a computer game
 
-## THREATS
+### THREATS
 
 Game can Crash due to some technical errors.
 Game may end with Draw.
 
-# 4 W’s and 1 H
+## 4 W’s and 1 H
 
-### WHO
+#### WHO
 
 Anyone who wants to play tic-tac-toe can play.
 
-### WHAT
+#### WHAT
 
 It is a game played by two players for fun.
 
-### WHEN
+#### WHEN
 
 Whenever the players wants to play to increase their fun.
 
-### WHY
+#### WHY
 
 This project can easily teach beginners and this gives relief to them.
 
-### HOW
+#### HOW
 
 This project is implemented by using loops, function call and other functionalities of C.
 
-## TOOLS
+### TOOLS
 
 Vs Code with Some Extensions like C/C++.
 
-# Detail Requirements
+## Detail Requirements
 
-## HIGH LEVEL REQUIREMENTS
+### HIGH LEVEL REQUIREMENTS
 
 1. Player Should have internet access. And should able to open any IDE like VS code, Eclipse etc….
 
@@ -69,5 +69,5 @@ Vs Code with Some Extensions like C/C++.
 
 6. Once the game is over the player can choose whether the player will leave or will continue.
 
-## LOWER LEVEL REQUIRMENTS
+### LOWER LEVEL REQUIRMENTS
 1. Name of the Player
