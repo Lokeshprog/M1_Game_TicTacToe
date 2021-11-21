@@ -12,7 +12,7 @@ In this game, there is a board with nxn squares. In our game, it is 3 x 3 square
 
 - It is fun type game between the two players which gives relief from stress.
 - It helps to improve logical and mental ability.
-- It helps to develop spatial skills
+- It helps to develop spatial skills.
 
 ### WEAKNESS
 
@@ -20,7 +20,7 @@ This game is addictive.
 
 ### OPPORTUNITIES
 
-It is a computer game
+It is a computer game and can have fun and relief.
 
 ### THREATS
 
