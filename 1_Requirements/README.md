@@ -6,13 +6,21 @@ Tic-Tac-Toe game is very popular and is fairly simple by itself. It is actually 
 
 In this game, there is a board with nxn squares. In our game, it is 3 x 3 squares.The goal of Tic-Tac-Toe is to be one of the players to get three samesymbols in a row - horizontally, vertically or diagonally on a 3 x 3 grid.
 
+## Research
+
+Started as a pen and paper game in Roman Empire in 1558, earlier it was called tic tac.
+In 1952, OXO (or Noughts and Crosses), developed by British computer scientist Sandy Douglas for the EDSAC computer at the University of Cambridge, became one of the first known video games.
+After Digitalisation, this game is almost free for everyone on multiple mediums.
+It is often used as a pedagogical tool for teaching the concepts of good sportsmanship and the branch of artificial intelligence that deals with the searching of game trees. It is straightforward to write a computer program to play tic-tac-toe perfectly or to enumerate the 765 essentially different positions (the state space complexity) or the 26,830 possible games up to rotations and reflections (the game tree complexity) on this space. If played optimally by both players, the game always ends in a draw, making tic-tac-toe a futile game.
+
 ## SWOT ANALYSIS
 
 ### STRENGTH
 
-- It is fun type game between the two players which gives relief from stress.
-- It helps to improve logical and mental ability.
-- It helps to develop spatial skills.
+1. The game can help the player to predict the outcome of anothers move.
+2. It helps to improve logic building and problem solving ability.
+3. It helps develop coordination, fine motor skills and visual skills.
+4. It can help to improve a person's concentration as well as strategic thinking
 
 ### WEAKNESS
 
@@ -20,12 +28,12 @@ This game is addictive.
 
 ### OPPORTUNITIES
 
-It is a computer game and can have fun and relief.
+Computer gaming
 
 ### THREATS
 
-Game can Crash due to some technical errors.
-Game may end with Draw.
+1. Game can Crash due to some technical errors.
+2. Block sometimes
 
 ## 4 W’s and 1 H
 
