@@ -28,7 +28,7 @@ Computer gaming
 
 ### THREATS
 
-1. Game can Crash due to some technical errors.
+Game can Crash due to some technical errors.
 
 ## 4 W’s and 1 H
 
