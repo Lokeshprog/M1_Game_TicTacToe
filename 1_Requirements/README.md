@@ -4,10 +4,15 @@ Tic-Tac-Toe game is very popular and is fairly simple by itself. It is a compute
 
 ## Research
 
-Started as a pen and paper game in Roman Empire in 1558, earlier it was called tic tac.
-In 1952, OXO (or Noughts and Crosses), developed by British computer scientist Sandy Douglas for the EDSAC computer at the University of Cambridge, became one of the first known video games.
-After Digitalisation, this game is almost free for everyone on multiple mediums.
 It is often used as a pedagogical tool for teaching the concepts of good sportsmanship and the branch of artificial intelligence that deals with the searching of game trees. It is straightforward to write a computer program to play tic-tac-toe perfectly or to enumerate the 765 essentially different positions (the state space complexity) or the 26,830 possible games up to rotations and reflections (the game tree complexity) on this space. If played optimally by both players, the game always ends in a draw, making tic-tac-toe a futile game.
+
+## Cost and Features and Timeline
+
+| Time | Feature | Cost |
+| ---- | ------- | ---- |
+| 1558 | Started as a pen and paper game in Roman Emire, earlier it was called tic tac. | Free (Pen and Paper) |
+| 1952 | In 1952, OXO (or Noughts and Crosses), developed by British computer scientist Sandy Douglas for the EDSAC computer at the University of Cambridge, became one of the first known video games. | $5 |
+| 2000-2021 | After Digitalisation, this game is almost free for everyone on multiple mediums. It is played by anyone at anytime. | Cost-efective |
 
 ## SWOT ANALYSIS
 
@@ -34,25 +39,25 @@ Game can Crash due to some technical errors.
 
 #### WHO
 
-Anyone who wants to play tic-tac-toe can play.
+Anyone can play this game.
 
 #### WHAT
 
-It is a game played by two players for fun.
+It is a game played by two players for fun and recreational purpose.
 
 #### WHEN
 
-Whenever the players wants to play to increase their fun.
+This game can be played whenever you are feeling bored or want to figure out ways, outcomes and situations of this game
 
-#### WHY
+#### WHERE
 
-This project can easily teach beginners and this gives relief to them.
+A variety of websites make a simple tic tac toe game available.
 
 #### HOW
 
 This project is implemented by using loops, function call and other functionalities of C.
 
-### TOOLS
+## TOOLS
 
 Vs Code with Some Extensions like C/C++.
 
@@ -60,17 +65,24 @@ Vs Code with Some Extensions like C/C++.
 
 ### HIGH LEVEL REQUIREMENTS
 
-1. Player Should have internet access. And should able to open any IDE like VS code, Eclipse etc….
-
-2. Player should Run the code and able to access the Terminal of the preferred IDE ex: If the player open the C programme using the VS code then he should open the Terminal of VS Code.
-
-3. The player 1 will start the game by choosing the 0 or X. 
-
-4. And After the player 2 will make the move by selecting remaining symbol.
-
-5. In the game The player who score the three symbols in a row will win.
-
-6. Once the game is over the player can choose whether the player will leave or will continue.
+| ID | Description | Status |
+| -- | ----------- | ------ |
+| HLR1 | User shall be able to choose 'X' to play. | Implemented |
+| HLR2 | User shall be able to choose 'O' to play. | Implemented |
+| HLR3 | User shall be able to Exit the game. | Implemented |
+| HLR4 | User shall lose. | Implemented |
+| HLR5 | User shall win. | Implemented |
+| HLR6 | User shall end up in a Draw situation. | Implemented |
 
 ### LOWER LEVEL REQUIRMENTS
-1. Name of the Player
+
+| ID | Description | Status |
+| -- | ----------- | ------ |
+| LLR1 | If the user presses '1', he'll be play with 'X'. | Implemented |
+| LLR2 | If the user is playing with 'X', he'll get the first turn. | Implemented |
+| LLR3 | If the user presses '2', he'll be play with 'O'. | Implemented |
+| LLR4 | If the user is playing with 'O', he'll get the second turn. | Implemented |
+| LLR5 | If the user presses '3', it'll exit the game. | Implemented |
+| LLR6 | If the computer gets 3 Xs or 3 Os in vertical,horizontal or diagonal row, User will lose. | Implemented |
+| LLR7 | If the user gets 3 Xs or 3 Os(as per his choice), in vertical,horizontal or diagonal row, he'll win. | Implemented |
+| LLR8 | If the total number of moves, i.e., 9 moves have been completed and neithe the user nor the computer has won, it'll end up in a draw. | Implemented |
