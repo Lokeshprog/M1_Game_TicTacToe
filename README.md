@@ -15,6 +15,8 @@
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/1d084d7e068e4f9aaa8c24c7f55b94c7)](https://www.codacy.com/gh/Lokeshprog/M1_Game_TicTacToe/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Lokeshprog/M1_Game_TicTacToe&amp;utm_campaign=Badge_Grade)
 
+Tic-Tac-Toe game is very popular and is fairly simple by itself. It is a computer based game for two players X and O. They take turns marking the spaces in the 3 x 3 grid with X and O alternatively. The player who succeeds in placing three successive marks either in horizontal, diagonal or vertical wins the game.
+
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
